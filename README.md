@@ -5,7 +5,7 @@
 - Write a python script called `cleanup.py` to turn off all GPIO pins on your Pi. This script will need to set all pins as output first, then set the output to Low.
 - Use a light bulb to test your code. 
 
-- [ ] Upload your code to this repository
+- [ x] Upload your code to this repository
 
 ## Part II - 7 Segment Display
 
@@ -16,7 +16,7 @@
 5. Add comments to your Python script to explain how it works.
 6. Take a short video of your stoplight working and a clear top-down photo of your wiring
 
-- [ ] Upload `hello_user.py`, the video, and the photo to this repository. Then, continue to Part III.
+- [x ] Upload `hello_user.py`, the video, and the photo to this repository. Then, continue to Part III.
  
 
 ## Part III - Stop Watch
@@ -26,7 +26,7 @@
 4. Add comments to your Python script to explain how it works.
 5. Take a short video of your stoplight working and a clear top-down photo of your wiring
 
-- [ ] Upload `stopwatch.py`, the video, and the photo to this repository. 
+- [x ] Upload `stopwatch.py`, the video, and the photo to this repository. 
 
 ## Rubric 
 
